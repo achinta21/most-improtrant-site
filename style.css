@@ -7,6 +7,7 @@ h1{
     font-size: 50px;
     font-weight: 700;
 }
+
 .orange-color{
     color: orange;
 }
@@ -15,9 +16,16 @@ section{
     display: flex;
 }
 .top-banner{
+    padding-bottom:13%;
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
     
+}
+.dream-area{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top:5px;
 }
 .haif-wdith{
     width: 50%;
